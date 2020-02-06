@@ -1,0 +1,6 @@
+int a = 5;
+int b = 6;
+int main(){
+a + b = 11;
+return 0;
+}
